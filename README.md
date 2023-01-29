@@ -104,6 +104,3 @@
 - [Xnip](https://xnipapp.com/)：免费的截图软件
 - [搜狗输入法](https://pinyin.sogou.com/mac/)：小鹤双拼
 
-## 说明
-
-本文会持续更新，同时也开源在 GitHub，欢迎 Star
