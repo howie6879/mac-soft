@@ -1,6 +1,6 @@
 # mac-soft
 
-> 记录我在使用 macOS 过程中使用&看到的软件项目
+> 记录我在使用 `macOS` 过程中使用&看到的软件项目，本文会持续更新，同时也开源在 [GitHub](https://github.com/howie6879/mac-soft)，欢迎 `Star` ❤️
 
 ## 基础工具
 
