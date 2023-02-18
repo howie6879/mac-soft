@@ -60,6 +60,7 @@
         - [DBeaver](https://github.com/dbeaver/dbeaver)：为开发人员、`SQL` 程序员、数据库管理员和分析人员提供的免费多平台数据库工具，有 `JDBC` 驱动即可支持使用（开源）
         - [dbgate](https://github.com/dbgate/dbgate)：支持 `Mysql、Postgresql、SQL Server、Mongodb、Redis、SQLite` 等数据库的管理软件，同时也满足在 `Windows、Linux、Mac Web` 下运行，还提供插件体系（开源）
     - Elasticsearch：
+        - [ElasticView](https://github.com/1340691923/ElasticView)：简单好用的 `ES` 可视化客户端，支持连接6，7，8版本（开源）
         - [appbaseio/mirage](https://opensource.appbase.io/mirage/)：用于简化 `ES` 查询语句编写的项目，你可以用基于块的交互形式来组成 `Elasticsearch` 查询语句（开源）
         - [elasticvue](https://github.com/cars10/elasticvue)：基于 `Vue` 的 `Elasticsearch` 管理客户端，支持[浏览器插件](https://chrome.google.com/webstore/detail/elasticvue/hkedbapjpblbodpgbajblpnlpenaebaa/related?utm_source=chrome-ntp-icon)和 `Docker` 自建（开源）
     - MongoDB：
